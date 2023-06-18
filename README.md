@@ -23,6 +23,7 @@ kurumları, özel kurumlar, hastaneler, bankalar ve bankamatikler gibi yerlerdek
 birkaç tıklama ile öğrenebileceklerdir. Aynı şekilde akıllı telefonlar için geliştirdiğimiz mobil
 uygulama sayesinde de kullanıcılar, bu bilgilere erişebilir hatta kullanıcının müsait olmasını
 beklediği kurumun yoğunluğu azaldığında uygulamamız kullanıcıya bildirim
-gönderebilecektir. Web sitemiz ve mobil uygulamamıza yoğunluk verileri yapay zekâ ile
+gönderebilecektir. Mobil uygulamamıza yoğunluk verileri yapay zekâ ile
 geliştirilmiş kamera kitimizden gelmektedir. Bu kamera kiti kurumlara bizim tarafımızdan
 sağlanacaktır.
+![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589)
