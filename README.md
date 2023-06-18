@@ -26,13 +26,10 @@ oluşturmaktadır. Şekil 1’de görülen Antalya’nın Manavgat ilçesinde ya
 katıldığı ankete göre kamu kurumlarında %71,2, bankamatik ve banka işlem sıralarında
 %65,2 ve özel kurum sıralarında %58,7 gibi oranlarda katılımcılar bu kurumlardaki sıralar ve
 kurum içi yoğunluklar yüzünden zaman kaybettiğini düşünmektedir. Projemizin ortaya çıkış
-amacı, bu problemin mütemadiyen tekrarlamasını engellemektir. Kullanıcılar cep telefonu,
-bilgisayar ve tablet gibi akıllı cihazlardan web sitemize erişerek web sitesi üzerinden kamu
+amacı, bu problemin mütemadiyen tekrarlamasını engellemektir. Kullanıcılar cep telefonu 
+ve tablet gibi akıllı cihazlardan wuygulamamız üzerinden kamu
 kurumları, özel kurumlar, hastaneler, bankalar ve bankamatikler gibi yerlerdeki yoğunlukları
-birkaç tıklama ile öğrenebileceklerdir. Aynı şekilde akıllı telefonlar için geliştirdiğimiz mobil
-uygulama sayesinde de kullanıcılar, bu bilgilere erişebilir hatta kullanıcının müsait olmasını
-beklediği kurumun yoğunluğu azaldığında uygulamamız kullanıcıya bildirim
-gönderebilecektir. Mobil uygulamamıza yoğunluk verileri yapay zekâ ile
+birkaç tıklama ile öğrenebileceklerdir. Mobil uygulamamıza yoğunluk verileri yapay zekâ ile
 geliştirilmiş kamera kitimizden gelmektedir. Bu kamera kiti kurumlara bizim tarafımızdan
 sağlanacaktır.
 
@@ -47,9 +44,7 @@ Projemizin nihai hedefi kullanıcıların günlük hayatta yaşadığı zaman ka
 indirmektedir. Bu noktada geliştirdiğimiz uygulama sayesinde insanlar bankalar, marketler,
 devlet daireleri, hastaneler gibi kurumlardaki yoğunluğu anlık olarak görebilmektedir.
 Bu sayede ilgili kurumlarda oluşabilecek yoğunlukların önüne geçilmek hedeflenmektedir.
-Uygulamamız Google PlayStore ve AppStore uygulama mağazalarında yayınlanacaktır.
-Ayrıca bilgisayarlar üzerinden de erişilmesi adına bir web sitesi tasarlanmaktadır. Kullanıcılar
-internete bağlanabilen herhangi bir cihaz üzerinden uygulamamıza erişim sağlayarak
+Kullanıcılar herhangi bir mobil cihaz üzerinden uygulamamıza erişim sağlayarak
 istedikleri kurumun yoğunluğu görebileceklerdir. Uygulamamızın arayüzü, her yaştan
 kullanıcının kolayca kullanabilmesi hedeflenerek olabildiğince sadelik ve kullanışlılık dengesi
 gözetilerek tasarlanmıştır. Uygulama arayüzündeki haritada kurumları belirten simgeler çok
