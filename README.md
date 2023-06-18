@@ -37,7 +37,7 @@ geliştirilmiş kamera kitimizden gelmektedir. Bu kamera kiti kurumlara bizim ta
 sağlanacaktır.
 
 
-<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589"  width="600" height="300">
+<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589"  width="690" height="473">
 
 
 
@@ -74,14 +74,15 @@ uygulamayı entegre etmektir.
 
 SPRINT 1:
 
-![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/6d1d5f98-93f7-419f-a7c3-699c8dd7987c)
+!.[alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/6d1d5f98-93f7-419f-a7c3-699c8dd7987c)
 
 
 TASARIM  ÜRÜN GÖRÜNTÜLERİ:
 
 HARİTA GÖRÜNÜM TASARIMLARI:
 
-![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/15690918-d210-4a38-9ec8-7e4ce9b8f9b2)
+<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/15690918-d210-4a38-9ec8-7e4ce9b8f9b2"  width="230" height="500">
+
 
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/d72c7f74-137e-4f1e-bff7-f671475419a2)
 
