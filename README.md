@@ -1,16 +1,25 @@
 # OyunveUygulamaAkademisi-Bootcamp2023F81
 TAKIM İSMİ:
+
 Takım Flutter 81
 
 ÜRÜN İLE İLGİLİ BİLGİLER:
+
 TAKIM ELEMANLARI:
+
 Zeliha Paycı / Scrum Master / Developer
+
 Hüseyin Özcan / Product Owner / Developer
+
 Begüm Sabancı / Developer
+
 Ferid Beraa Çoruh / Developer
+
 Yasin Onur Bayraktar / Aktif Olmayan Üye
 
+
 ÜRÜN AÇIKLAMASI:
+
 Gün içinde yaşanan zaman kayıplarının toplumu gerek ruhsal gerek fiziksel olarak etkilediği
 aşikardır. Bu zaman kayıplarının bir kısmını çeşitli kurumlardaki beklenmedik sıralar
 oluşturmaktadır. Şekil 1’de görülen Antalya’nın Manavgat ilçesinde yaptığımız ve 917 kişinin
@@ -26,9 +35,14 @@ beklediği kurumun yoğunluğu azaldığında uygulamamız kullanıcıya bildiri
 gönderebilecektir. Mobil uygulamamıza yoğunluk verileri yapay zekâ ile
 geliştirilmiş kamera kitimizden gelmektedir. Bu kamera kiti kurumlara bizim tarafımızdan
 sağlanacaktır.
+
+
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589)
 
+
+
 ÜRÜN BİLGİLERİ:
+
 Projemizin nihai hedefi kullanıcıların günlük hayatta yaşadığı zaman kaybını en aza
 indirmektedir. Bu noktada geliştirdiğimiz uygulama sayesinde insanlar bankalar, marketler,
 devlet daireleri, hastaneler gibi kurumlardaki yoğunluğu anlık olarak görebilmektedir.
@@ -44,7 +58,9 @@ renk değiştirerek, kurumların yoğunluğu belirtilecektir. Bunun yanı sıra 
 simgelerine tıklanıldığında kurumda bulunan kişi sayısı, yoğunluk bilgisinin güncellenme
 tarihi gibi daha ayrıntılı bilgileri gösteren bir sekme kullanımda olacaktır.
 
+
 ÜRÜN HEDEF KİTLESİ:
+
 Birleşmiş Milletler İletişim Teknoloji Kurumu Uluslararası İletişim Birliği (ITU) tarafından
 yayınlana güncel bilgiye göre 2023 yılında yaklaşık 5,3 milyar insanın (dünya nüfusunun
 yüzde 66'sının) internet kullandığını tahmin ediliyor Bu, 2019'dan bu yana yüzde 24'lük
@@ -57,16 +73,19 @@ Bizim hedefimiz ise önce Türkiye genelindeki daha sonra da tüm dünyadaki kur
 uygulamayı entegre etmektir.
 
 SPRINT 1:
+
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/6d1d5f98-93f7-419f-a7c3-699c8dd7987c)
 
 
 TASARIM  ÜRÜN GÖRÜNTÜLERİ:
 
 HARİTA GÖRÜNÜM TASARIMLARI:
+
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/15690918-d210-4a38-9ec8-7e4ce9b8f9b2)
 
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/d72c7f74-137e-4f1e-bff7-f671475419a2)
 
 YOĞUNLUK GÖSTERGE EKRANI TASARIMI:
+
 ![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/098473f1-292c-4949-a825-a389c59a6eda)
 
