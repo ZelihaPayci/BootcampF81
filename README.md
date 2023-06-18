@@ -84,9 +84,8 @@ HARİTA GÖRÜNÜM TASARIMLARI:
 <img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/15690918-d210-4a38-9ec8-7e4ce9b8f9b2"  width="230" height="500">
 
 
-![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/d72c7f74-137e-4f1e-bff7-f671475419a2)
-
+<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/d72c7f74-137e-4f1e-bff7-f671475419a2" width="390" height="800">
 YOĞUNLUK GÖSTERGE EKRANI TASARIMI:
 
-![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/098473f1-292c-4949-a825-a389c59a6eda)
+<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/098473f1-292c-4949-a825-a389c59a6eda" width="390" height="800">
 
