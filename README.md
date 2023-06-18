@@ -74,7 +74,7 @@ uygulamayı entegre etmektir.
 
 SPRINT 1:
 
-!.[alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/6d1d5f98-93f7-419f-a7c3-699c8dd7987c)
+![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/6d1d5f98-93f7-419f-a7c3-699c8dd7987c)
 
 
 TASARIM  ÜRÜN GÖRÜNTÜLERİ:
