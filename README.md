@@ -37,7 +37,7 @@ geliştirilmiş kamera kitimizden gelmektedir. Bu kamera kiti kurumlara bizim ta
 sağlanacaktır.
 
 
-![alt text](https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589)
+<img src="https://github.com/ZelihaPayci/OyunveUygulamaAkademisi-Bootcamp2023F81/assets/111893423/11fc8e8b-9c44-4574-b872-215de2a8b589"  width="600" height="300">
 
 
 
